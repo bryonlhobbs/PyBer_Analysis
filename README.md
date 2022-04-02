@@ -1,4 +1,4 @@
-# PyBer_Analysis
+# PyBer Analysis
 ## Overview
 The purpose of this analysis was to look at differences in the data between city types.  Doing so will allow us to better understand rider and driver trends for each type of location.  As a result of the analysis, I was asked to visualize the data in a way that tells a story to decision makers.  
 
@@ -16,4 +16,4 @@ For the line chart tracking Total Fares, I tracked Total Fares from 1/1/2019 to 
 
 
 ## Summary
-MY recommendations for PyBer should help them maximize their resources for revenue generation.  The first is to move some drivers from the urban areas to suburban and rural areas.  This will likely require incentivizing these locations for drivers.  This would solve the oversaturation of urban markets and undersaturation of suburban and rural markets.  The second recommendation is to suggest a marketing campaign for PyBer in suburban and rural markets, allowing the company to increase the total fares of these areas, utilizing the high average scroes as a way to increase overall revenue.  The third recommendation is The third recommendation is to introduce a pooling option (multiple riders for one driver) in suburban areas to alleviate the driver shortage.  This is not being recommeded for rural areas, however, because the area is too sparse that ride pooling would have too negative of an impact on ride times.  
+My recommendations for PyBer should help them maximize their resources for revenue generation.  The first is to move some drivers from the urban areas to suburban and rural areas.  This will likely require incentivizing these locations for drivers.  This would solve the oversaturation of urban markets and undersaturation of suburban and rural markets.  The second recommendation is to suggest a marketing campaign for PyBer in suburban and rural markets, allowing the company to increase the total fares of these areas, utilizing the high average scroes as a way to increase overall revenue.  The third recommendation is The third recommendation is to introduce a pooling option (multiple riders for one driver) in suburban areas to alleviate the driver shortage.  This is not being recommeded for rural areas, however, because the area is too sparse that ride pooling would have too negative of an impact on ride times.  
